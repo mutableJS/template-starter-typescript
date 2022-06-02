@@ -20,6 +20,10 @@ yarn
 yarn start
 ```
 
+## Questions?
+
+Join our [Discord server](https://discord.gg/gNdgy8uS3R)!
+
 ## Feedback
 
 Any feedback? Join our [Discord server](https://discord.gg/gNdgy8uS3R) and reach out to us.\
