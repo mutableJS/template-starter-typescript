@@ -16,7 +16,8 @@
 		"noErrorTruncation": true,
 		"skipLibCheck": true,
 		"jsx": "react",
-		"jsxFactory": "mutableElement"
+		"jsxFactory": "mutableElement",
+		"paths": { "~/*": ["./*"] }
 	},
 	"include": ["src"],
 	"exclude": ["dist", "node_modules"]

@@ -1,6 +1,6 @@
 import mutableElement from '@mutablejs/dom';
 import styles from './styles.module.scss';
-import logoImage from '../assets/logo.svg';
+import logoImage from '~/assets/logo.svg';
 
 const app = (
 	<div class={styles.root}>
