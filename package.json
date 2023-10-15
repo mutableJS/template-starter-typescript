@@ -14,13 +14,13 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"@types/node": "^17.0.41",
-		"typescript": "^4.7.3",
-		"vite": "^2.9.12"
+		"@types/node": "^20.8.6",
+		"typescript": "^5.2.2",
+		"vite": "^4.4.11"
 	},
 	"dependencies": {
-		"@mutablejs/core": "^0.2.0",
-		"@mutablejs/dom": "^0.3.1",
-		"sass": "^1.52.3"
+		"@mutablejs/core": "^0.2.1",
+		"@mutablejs/dom": "^0.3.2",
+		"sass": "^1.69.3"
 	}
 }
